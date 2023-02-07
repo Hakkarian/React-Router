@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hakkarian/React-Router/static/css/main.fe200add.css",
+    "main.js": "/Hakkarian/React-Router/static/js/main.62d6ae73.js",
+    "index.html": "/Hakkarian/React-Router/index.html",
+    "main.fe200add.css.map": "/Hakkarian/React-Router/static/css/main.fe200add.css.map",
+    "main.62d6ae73.js.map": "/Hakkarian/React-Router/static/js/main.62d6ae73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe200add.css",
+    "static/js/main.62d6ae73.js"
+  ]
+}
